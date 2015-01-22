@@ -1,0 +1,22 @@
+[Administrator]
+Owner=Adonit 2014
+Password=00000000
+[Manufacturer Config Information]
+Vendor Name=
+Project Name=Mighty 20140616 v1.08
+Release Date=2014/06/16
+Manufacture Counter=0
+[TI Configuration]
+Checksum=62fb6606a242be06e3aee7ce4b319f80
+[CSR Configuration]
+SDK Ver=0
+EEPROM Start Address=6000
+EEPROM Size=600
+LAP=57F8
+UAP=BC30  
+NAP=F46A
+BTDADD ROM Address=0038
+Serial Number=22478
+SN ROM Address=600A
+DATE ROM Address=6036
+Checksum=27e412243ad37b63c9f9615ad881cbe9
