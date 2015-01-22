@@ -2,21 +2,21 @@
 Owner=Adonit 2014
 Password=00000000
 [Manufacturer Config Information]
-Vendor Name=Vendor Name ?
-Project Name=Mighty 20140422 v1.06
-Release Date=2014/06/11
-Manufacture Counter=99999993
+Vendor Name=
+Project Name=Mighty 20140612 v1.07
+Release Date=2014/06/12
+Manufacture Counter=999995
 [TI Configuration]
-Checksum=62fb6606a242be06e3aee7ce4b319f80
+Checksum=5fd59a52379b5321324bc973ff3e1de5
 [CSR Configuration]
 SDK Ver=0
 EEPROM Start Address=6000
 EEPROM Size=600
-LAP=1024
-UAP=BC30      
+LAP=0000
+UAP=BC30
 NAP=F46A
-BTDADD ROM Address=0
-Serial Number=4132
+BTDADD ROM Address=
+Serial Number=0
 SN ROM Address=600A
 DATE ROM Address=6036
-Checksum=8a7e11818f2d021d50a511d83cfe1296
+Checksum=b6799b038f8c8ee39e35c111ec3839ae
